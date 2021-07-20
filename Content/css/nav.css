@@ -1,0 +1,51 @@
+.navbar{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(167, 28, 28);
+  display: block;
+}
+
+.navbar:hover{
+  color: black;
+  background-color: rgb(187, 150, 150);
+  transition-duration: 0.3s;
+  transition-delay: 0.1s;
+}
+
+/* NavBar Dropdown */
+.dropbtn {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(167, 28, 28);
+  margin-top: 16px
+}
+
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {
+  color: black;
+  background-color: rgb(187, 150, 150);
+  transition-duration: 0.3s;
+  transition-delay: 0.1s;
+  }

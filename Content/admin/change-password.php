@@ -90,7 +90,7 @@ return true;
 </script>
 
 
-    </head>
+    	<link rel="icon" href="https://i.imgur.com/By9bbw2.png" type="image/x-icon" sizes="256x256"> </head>
 
 
     <body class="fixed-left">

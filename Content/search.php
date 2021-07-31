@@ -30,7 +30,7 @@ include('includes/config.php');
     <link href="css/style.css" rel="stylesheet" type="text/css" />
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 
-  </head>
+  	<link rel="icon" href="https://i.imgur.com/By9bbw2.png" type="image/x-icon" sizes="256x256"> </head>
 
   <body>
 
@@ -152,7 +152,7 @@ while ($row=mysqli_fetch_array($query)) {
     <!-- Active js -->
     <script src="js/active.js"></script>
 
-</head>
+	<link rel="icon" href="https://i.imgur.com/By9bbw2.png" type="image/x-icon" sizes="256x256"> </head>
   </body>
 
 </html>

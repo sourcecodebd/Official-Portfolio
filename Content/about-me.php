@@ -11,8 +11,7 @@ include('includes/config.php');
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-	<!-- Icon -->
-	<link rel="icon" href="https://i.imgur.com/By9bbw2.png" type="image/x-icon" sizes="256x256">
+
     <title>About</title>
 
     <!-- Bootstrap core CSS -->
@@ -30,7 +29,7 @@ include('includes/config.php');
 
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 
-  </head>
+  	<link rel="icon" href="https://i.imgur.com/By9bbw2.png" type="image/x-icon" sizes="256x256"> </head>
 
   <body>
 

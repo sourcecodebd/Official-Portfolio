@@ -1,7 +1,7 @@
 <link href="./css/style.css" rel="stylesheet" type="text/css" />
   
   <!-- ##### Footer Area Start ##### -->
-  <footer data-aos="slide-up" class="footer-area">
+  <footer data-aos="fade-up" class="footer-area">
         <div class="container">
             <div class="row">
                 <!-- Footer Widget Area -->
@@ -70,7 +70,7 @@
                                     <a href="https://github.com/sourcecodebd/Laravel-Project"><i class="fa fa-eye" aria-hidden="true"></i> E-Pay.com</a>
                                 </div>
                                 <div class="post-meta d-flex justify-content-between">
-                                    <a href="https://github.com/sourcecodebd/learning-laravel-framework-fall-2020-2021-sec-b/tree/main/Mid%20Lab-Task/laratest"><i                                             class="fa fa-eye" aria-hidden="true"></i> Client-Management.com</a>
+                                    <a href="https://github.com/sourcecodebd/Client-Management-System"><i                                             class="fa fa-eye" aria-hidden="true"></i> Client-Management System</a>
                                 </div>
                             </div>
                         </div><br>

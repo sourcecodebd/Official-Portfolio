@@ -1,5 +1,4 @@
- <head><!-- Icon -->
-	<link rel="icon" href="https://i.imgur.com/By9bbw2.png" type="image/x-icon" sizes="256x256">
+ <head>
    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
  </head>
 
@@ -12,18 +11,19 @@
      </div>
    </div>
 
-   <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light fixed-top">
-     <div class="container">
-       <a class="navbar-brand" href="index.php"><img src="images/logo.png" height="50"></a>
-       <div data-aos="flip-left" class="topbar-left">
-         <a href="index.php" class="logo"><span>NAFI<span style="color: darkblue">.</span>COM<span> Blog</span></span><i class="mdi mdi-layers"></i></a>
-       </div>
-       <button class="navbar-toggler navbar-toggler-right  btn-danger" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-         <span class="navbar-toggler-icon"></span>
-       </button>
-       <div class="collapse navbar-collapse" id="navbarResponsive">
-
-         <ul class="navbar-nav ml-auto">
+   <nav class="navbar navbar-expand-lg navbar-light bg-light  fixed-top">
+    <div class="container">
+        <a class="navbar-brand" href="index.php">
+            <img src="images/logo.png" alt="" height="50" class="d-inline-block align-text-top">
+        </a>
+        <div data-aos="flip-left" class="topbar-left">
+            <a href="index.php" class="fs-4 logo text-decoration-none"><span>NAFI<span style="color: darkblue">.</span>COM<span> Blog</span></span><i class="mdi mdi-layers"></i></a>
+        </div>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ml-auto">
            <li class="nav-item">
              <a class="nav-link" href="index.php">
                <div class="navbar">Home</div>
@@ -62,11 +62,9 @@
 
 
          </ul>
-       </div>
-
-     </div>
-     </div>
-   </nav>
+        </div>
+    </div>
+</nav>
 
    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
    <script>
@@ -75,5 +73,7 @@
        once: true
      });
    </script>
+
+   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 
  </body>

@@ -44,8 +44,7 @@ $error="Old Password not match !!";
 
 <!DOCTYPE html>
 <html lang="en">
-    <head><!-- Icon -->
-	<link rel="icon" href="https://i.imgur.com/By9bbw2.png" type="image/x-icon" sizes="256x256">
+    <head>
 
         <title>Newsportal | Add Category</title>
 
